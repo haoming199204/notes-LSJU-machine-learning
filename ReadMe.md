@@ -3,10 +3,11 @@
 ## 简介
 
 **作者：子实**
+**修改者：GoodName**
 
 机器学习笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
 
-`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.jupyter.org/github/zlotus/notes-LSJU-machine-learning/blob/master/ReadMe.ipynb?flush_cache=true) 中查看该项目。
+`Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.jupyter.org/github/haoming199204/notes-LSJU-machine-learning/blob/master/ReadMe.ipynb?flush_cache=true) 中查看该项目。
 
 ----
 
